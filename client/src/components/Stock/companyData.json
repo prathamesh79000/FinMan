@@ -1,0 +1,14 @@
+{
+  "companies": {
+    "Apple Inc.": "AAPL",
+    "Microsoft Corporation": "MSFT",
+    "Alphabet Inc.": "GOOGL",
+    "Amazon.com Inc.": "AMZN",
+    "Facebook Inc.": "FB",
+    "Tesla Inc.": "TSLA",
+    "Johnson & Johnson": "JNJ",
+    "Procter & Gamble Co.": "PG",
+    "Coca-Cola Co.": "KO",
+    "Walmart Inc.": "WMT"
+  }
+}
